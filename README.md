@@ -3,7 +3,7 @@ About -
 My attempt in trying to make Atari Breakout, as a self-learning tutorial. Feel free to use as per Desired.
 
 
-Latest Version[v0.1] - 
+Latest Version[v0.2] - 
 A minimal viable product.
 
 
@@ -16,5 +16,5 @@ Atari Breakout
 
 
 Change Log - 
-Made the game.
-Added sound effects.
+Added proper levels.
+Added a life system.
